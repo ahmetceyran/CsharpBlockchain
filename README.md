@@ -1,4 +1,3 @@
-# Sharpchain
-Simple blockchain written in C#
+# CsharpBlockchain
 
-![alt text](https://github.com/MojtabaTajik/Sharpchain/blob/master/Resources/Sharpchain.PNG)
+Blockchain written with C# which contains isblockvalid function
